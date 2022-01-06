@@ -1,2 +1,2 @@
 # TechBlog
-this is responsive application allow multiple users to login and share the knowledge by using this platform.
+this is a responsive application that allows multiple users to log in and share knowledge by using this platform.
